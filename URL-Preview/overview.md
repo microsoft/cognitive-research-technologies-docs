@@ -1,19 +1,3 @@
----
-title: What is Project URL Preview?
-titlesuffix: Azure Cognitive Services
-description: Introduction to the Project URL Preview.
-services: cognitive-services
-author: mikedodaro
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: url-preview
-ms.topic: overview
-ms.date: 03/16/2018
-ms.author: rosh
-ROBOTS: NOINDEX
----
-
 # What is Project URL Preview?
 The URL Preview endpoint takes a URL query parameter and returns a JSON response with the name of the target resource, a brief description, and a link to an image to display in a preview. The response also includes the [isFamilyFriendly](url-preview-reference.md#query-parameters) flag that indicates whether the URL contains adult, pirated, or other illegal content. 
 

@@ -1,18 +1,3 @@
----
-title: How to use Conversation Learner with other bot building technologies - Microsoft Cognitive Services | Microsoft Docs
-titleSuffix: Azure
-description: Learn how to use Conversation Learner with other bot building technologies.
-services: cognitive-services
-author: mattm
-manager: larsliden
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 07/13/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # How to use Conversation Learner with other bot building technologies
 
 This tutorial covers how to use Conversation Learner with other bot building technologies and how memory (or state) can be shared between these technologies. 

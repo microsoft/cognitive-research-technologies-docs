@@ -1,18 +1,3 @@
----
-title: Schema format - Knowledge Exploration Service API
-titlesuffix: Azure Cognitive Services
-description: Learn about the schema format in the Knowledge Exploration Service (KES) API.
-services: cognitive-services
-author: bojunehsu
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: knowledge-exploration
-ms.topic: conceptual
-ms.date: 03/26/2016
-ms.author: paulhsu
----
-
 # Schema Format
 
 The schema is specified in a JSON file that describes the attribute structure of the objects in the data file used to create the index.  For each attribute, the schema specifies the name, data type, optional operations, and optional synonyms list.  An object may have 0 or more values of each attribute.  Below is a simplified example from an academic publication domain:

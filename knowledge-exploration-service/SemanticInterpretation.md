@@ -1,18 +1,3 @@
----
-title: Semantic interpretation - Knowledge Exploration Service API
-titlesuffix: Azure Cognitive Services
-description: Learn how to use semantic interpretation in the Knowledge Exploration Service (KES) API.
-services: cognitive-services
-author: bojunehsu
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: knowledge-exploration
-ms.topic: conceptual
-ms.date: 03/26/2016
-ms.author: paulhsu
----
-
 # Semantic Interpretation
 
 Semantic interpretation associates semantic output with each interpreted path through the grammar.  In particular, the service evaluates the sequence of statements in the `tag` elements traversed by the interpretation to compute the final output.  

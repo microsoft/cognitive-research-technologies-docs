@@ -1,18 +1,3 @@
----
-title: Data format - Knowledge Exploration Service API
-titlesuffix: Azure Cognitive Services
-description: Learn about the data format in the Knowledge Exploration Service (KES) API.
-services: cognitive-services
-author: bojunehsu
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: knowledge-exploration
-ms.topic: conceptual
-ms.date: 03/26/2016
-ms.author: paulhsu
----
-
 # Data Format
 
 The data file describes the list of objects to index.

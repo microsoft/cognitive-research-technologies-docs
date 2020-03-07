@@ -1,18 +1,3 @@
----
-title: "Quickstart: Project URL Preview, Java"
-titlesuffix: Azure Cognitive Services
-description: Script sample to get started using the Project URL Preview with Java.
-services: cognitive-services
-author: mikedodaro
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: url-preview
-ms.topic: quickstart
-ms.date: 04/24/2018
-ms.author: rosh
-ROBOTS: NOINDEX
----
 # Quickstart: URL Preview with Java
 
 The following Java example creates a Url Preview for the SwiftKey Web site: https://swiftkey.com/en.

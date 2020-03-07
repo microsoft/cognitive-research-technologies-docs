@@ -1,19 +1,3 @@
----
-title: What is Project Answer Search?
-titlesuffix: Azure Cognitive Services
-description: Introduction to the Project Answer Search.
-services: cognitive-services
-author: mikedodaro
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: answer-search
-ms.topic: overview
-ms.date: 04/13/2018
-ms.author: rosh
-ROBOTS: NOINDEX
----
-
 # What is Project Answer Search?
 Project Answer Search API uses the Bing v7 endpoint to get answers to interrogative queries. A question such as "What is the circumference of the earth?" returns an answer with factual information.  A query for a person, place, or thing returns information about the entity identified by the query. These scenarios can be useful in applications such as conversational bots, messaging apps, readers, etc.  
 

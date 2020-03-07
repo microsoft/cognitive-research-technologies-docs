@@ -1,18 +1,3 @@
----
-title: Introduction to Training a Conversation Learner model - Microsoft Cognitive Services| Microsoft Docs
-titleSuffix: Azure
-description: Learn how to train a model including branching and editing previous training via Conversation Learner.
-services: cognitive-services
-author: nitinme
-manager: nolachar
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 04/30/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # Introduction to Training
 
 This tutorial shows the basics of training a Model, branching off a new training based on a previous training, and editing a Bot response in order to change it.

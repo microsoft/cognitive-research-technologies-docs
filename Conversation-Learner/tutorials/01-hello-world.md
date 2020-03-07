@@ -1,18 +1,3 @@
----
-title: How to create a "Hello World" Conversation Learner model - Microsoft Cognitive Services | Microsoft Docs
-titleSuffix: Azure
-description: Learn how to create a "Hello World" Conversation Learner model.
-services: cognitive-services
-author: nitinme
-manager: nolachar
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 04/30/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # How to create a "Hello World" model with Conversation Learner
 
 This tutorial shows how to get started with Conversation Learner, including creating actions, teaching the Bot interactively, and making corrections of logged dialogs which come from end users.

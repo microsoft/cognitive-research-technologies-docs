@@ -1,18 +1,3 @@
----
-title: What is Knowledge Exploration Service?
-titlesuffix: Azure Cognitive Services
-description: Add interactive search and refinement to your app with Knowledge Exploration Service (KES).
-services: cognitive-services
-author: bojunehsu
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: knowledge-exploration
-ms.topic: overview
-ms.date: 03/26/2016
-ms.author: paulhsu
----
-
 # Knowledge Exploration Service
 
 Welcome to the Microsoft Knowledge Exploration Service.  Knowledge Exploration Service (KES) offers a fast and effective way to add interactive search and refinement to applications.  With KES, you can build a compressed index from structured data, author a grammar that interprets natural language queries, and provide interactive query formulation with auto-completion suggestions.

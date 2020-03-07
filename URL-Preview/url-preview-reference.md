@@ -1,19 +1,3 @@
----
-title: Project URL Preview reference
-titlesuffix: Azure Cognitive Services
-description: Reference for Project URL Preview endpoint.
-services: cognitive-services
-author: mikedodaro
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: url-preview
-ms.topic: reference
-ms.date: 03/29/2018
-ms.author: rosh
-ROBOTS: NOINDEX
----
-
 # Project URL Preview v7 reference
 
 URL Preview supports brief descriptions of Web resources for blog posts, forum discussions, preview pages, etc. The URL can be any type of Internet resource: Web page, news, image, or video. The query must be an absolute URL with an http or https scheme; relative URLs or other schemes like ftp:// are not supported.

@@ -1,18 +1,3 @@
----
-title: "Example: Getting started - Knowledge Exploration Service API"
-titlesuffix: Azure Cognitive Services
-description: Use Knowledge Exploration Service (KES) API to create an engine for an interactive search experience across academic publications.
-services: cognitive-services
-author: bojunehsu
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: knowledge-exploration
-ms.topic: sample
-ms.date: 03/26/2016
-ms.author: paulhsu
----
-
 # Get started with the Knowledge Exploration Service
 
 In this walkthrough, you use the Knowledge Exploration Service (KES) to create the engine for an interactive search experience for academic publications. You can install the command line tool, [`kes.exe`](CommandLine.md), and all example files from the [Knowledge Exploration Service SDK](https://www.microsoft.com/en-us/download/details.aspx?id=51488).

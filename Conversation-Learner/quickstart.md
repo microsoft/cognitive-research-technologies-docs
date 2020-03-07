@@ -1,18 +1,3 @@
----
-title: How to create a Conversation Learner model using Node.js - Microsoft Cognitive Services | Microsoft Docs
-titleSuffix: Azure
-description: Learn how to create a Conversation Learner model using Node.js.
-services: cognitive-services
-author: nitinme
-manager: nolachar
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 04/30/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # Create a Conversation Learner model using Node.js
 
 Conversation Learner reduces the complexity of building bots. It enables a hybrid development work-flow allowing hand-written code and machine learning to reduce the amount of code required to write bots. Certain fixed parts of your model, such as checking if the user is logged in, or making an API request to check store inventory, can still be coded. However, other changes in state and action selection can be learned from example dialogs given by the domain expert or developer.

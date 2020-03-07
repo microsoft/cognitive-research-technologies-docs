@@ -1,19 +1,3 @@
----
-title: "Quickstart: Project Answer Search Entity query"
-titlesuffix: Azure Cognitive Services
-description: Queries for Entities using Project Answer Search
-services: cognitive-services
-author: mikedodaro
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: answer-search
-ms.topic: quickstart
-ms.date: 04/16/2018
-ms.author: rosh
-ROBOTS: NOINDEX
----
-
 # Quickstart: Query for Entities
 
 If the query requests information about a person, place or thing, the response can contain an `entities` answer.  Queries always return webpages, [facts](fact-queries.md) and/or [entities](entity-queries.md) are query dependent.

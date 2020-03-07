@@ -1,18 +1,3 @@
----
-title: How to use API calls with a Conversation Learner model - Microsoft Cognitive Services | Microsoft Docs
-titleSuffix: Azure
-description: Learn how to use API calls with a Conversation Learner model.
-services: cognitive-services
-author: nitinme
-manager: nolachar
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 04/30/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # How to add API calls to a Conversation Learner model
 
 This tutorial shows how to add API calls to your model. API calls are functions that you define and write in your Bot, and which Conversation Learner can call.

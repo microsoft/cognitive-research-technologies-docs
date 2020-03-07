@@ -1,18 +1,3 @@
----
-title: Web API interface - Knowledge Exploration Service API
-titlesuffix: Azure Cognitive Services
-description: Use the web API interface to create a rich, semantic search experience in the Knowledge Exploration Service (KES) API.
-services: cognitive-services
-author: bojunehsu
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: knowledge-exploration
-ms.topic: conceptual
-ms.date: 03/26/2016
-ms.author: paulhsu
----
-
 # Web API Interface
 
 The model files built by the Knowledge Exploration Service can be hosted and accessed via a set of web APIs.  The APIs may be hosted on the local machine using the [`host_service`](CommandLine.md#host_service-command) command, or may be deployed to an Azure cloud service using the [`deploy_service`](CommandLine.md#deploy_service-command) command.  Both techniques expose the following API endpoints:
