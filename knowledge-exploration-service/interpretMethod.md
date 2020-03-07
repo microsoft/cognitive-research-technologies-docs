@@ -1,18 +1,3 @@
----
-title: Interpret method - Knowledge Exploration Service API
-titlesuffix: Azure Cognitive Services
-description: Learn how to use the Interpret method in the Knowledge Exploration Service (KES) API.
-services: cognitive-services
-author: bojunehsu
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: knowledge-exploration
-ms.topic: conceptual
-ms.date: 03/26/2016
-ms.author: paulhsu
----
-
 # interpret Method
 
 The *interpret* method takes a natural language query string and returns formatted interpretations of user intent based on the grammar and index data.  To provide an interactive search experience, this method may be called as each character is entered by the user with the *complete* parameter set to 1 to enable auto-complete suggestions.

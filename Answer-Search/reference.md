@@ -1,19 +1,3 @@
----
-title: Project Answer Search reference
-titlesuffix: Azure Cognitive Services
-description: Reference for Project Answer Search endpoint.
-services: cognitive-services
-author: mikedodaro
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: answer-search
-ms.topic: reference
-ms.date: 04/13/2018
-ms.author: rosh
-ROBOTS: NOINDEX
----
-
 # Project Answer Search v7 reference
 
 Bing Answer SearchAPI takes a query parameter and returns a `searchResponse` with `answerType`: `facts` or `entities`. 

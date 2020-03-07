@@ -1,19 +1,3 @@
----
-title: "Quickstart: Project Answer Search, C#"
-titlesuffix: Azure Cognitive Services
-description: Code sample to get started using the Project Answer Search with C#.
-services: cognitive-services
-author: mikedodaro
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: answer-search
-ms.topic: quickstart
-ms.date: 04/13/2018
-ms.author: rosh
-ROBOTS: NOINDEX
----
-
 # Quickstart: Project Answer Search query in C#
 
 The following C# example creates and sends a query for information about the third law of calculus.

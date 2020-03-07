@@ -1,19 +1,3 @@
----
-title: Frequently Asked Questions - Personality Chat
-titlesuffix: Azure Cognitive Services
-description: FAQs on Personality Chat
-services: cognitive-services
-author: noellelacharite
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: personality-chat
-ms.topic: conceptual
-ms.date: 05/07/2018
-ms.author: nitinme
-comment: As a bot developer, I want my bot to be able to handle small talk in a consistent tone so that my bot appears more complete and conversational.
-ROBOTS: NOINDEX
----
 # Frequently Asked Questions
 
 ## Why doesn't this answer every question I ask it, like other chat bots?

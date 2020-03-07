@@ -1,18 +1,3 @@
----
-title: When to use ENUM entities and SET ENTITY actions with a Conversation Learner Model - Azure Cognitive Services | Microsoft Docs
-titleSuffix: Azure
-description: Learn when it is appropriate to use ENUM entities and SET ENTITY actions with a Conversation Learner Model.
-services: cognitive-services
-author: v-jaswel
-manager: nolachar
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 04/30/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # When to use ENUM entities and SET ENTITY actions
 
 This tutorial will explain when you should use ENUM (enumeration) entities and SET_ENTITY actions.

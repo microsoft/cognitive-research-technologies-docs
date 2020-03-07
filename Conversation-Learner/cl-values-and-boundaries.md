@@ -1,18 +1,3 @@
----
-title: Conversation Learner default configuration - Microsoft Cognitive Services | Microsoft Docs
-titleSuffix: Azure
-description: Learn about the default Conversation Learner configuration.
-services: cognitive-services
-author: nitinme
-manager: nolachar
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 04/30/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # Default values and boundaries
 
 This document describes the default configuration of Conversation Learner, and key service boundaries.

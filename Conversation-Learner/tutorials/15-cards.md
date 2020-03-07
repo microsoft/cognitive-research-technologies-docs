@@ -1,18 +1,3 @@
----
-title: How to use cards with a Conversation Learner model, part 1 - Microsoft Cognitive Services | Microsoft Docs
-titleSuffix: Azure
-description: Learn how to use cards with a Conversation Learner model.
-services: cognitive-services
-author: nitinme
-manager: nolachar
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 04/30/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # How to use cards (part 1 of 2)
 
 This tutorial shows how to add and use a simple card in your bot.

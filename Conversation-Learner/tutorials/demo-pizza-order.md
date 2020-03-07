@@ -1,18 +1,3 @@
----
-title: Demo Conversation Learner model, pizza order - Microsoft Cognitive Services | Microsoft Docs
-titleSuffix: Azure
-description: Learn how to create a demo Conversation Learner model.
-services: cognitive-services
-author: nitinme
-manager: nolachar
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 04/30/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # Demo: Pizza order
 This demo illustrates a pizza ordering bot, supporting single pizza ordering by:
 

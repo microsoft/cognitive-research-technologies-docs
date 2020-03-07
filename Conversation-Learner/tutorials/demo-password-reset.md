@@ -1,18 +1,3 @@
----
-title: Demo Conversation Learner model, password reset - Microsoft Cognitive Services | Microsoft Docs
-titleSuffix: Azure
-description: Learn how to create a demo Conversation Learner model.
-services: cognitive-services
-author: nitinme
-manager: nolachar
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 04/30/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # Demo: Password reset
 This tutorial showcases a simple technical support bot that can help with password resets powered by Conversation Learner. The bot's model can learn non-trivial dialog flows and multi-turn sequences including an out-of-domain classes. The task can be accomplished without code or Entities.
 

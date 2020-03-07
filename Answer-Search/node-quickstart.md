@@ -1,17 +1,3 @@
----
-title: "Quickstart: Project Answer Search, Node"
-description: Get started using Project Answer Search with Node.
-services: cognitive-services
-author: mikedodaro
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: answer-search
-ms.topic: quickstart
-ms.date: 04/13/2018
-ms.author: rosh
-ROBOTS: NOINDEX
----
 # Quickstart: Project Answer Search with Node
 
 The following Node example creates a query for information about Yosemite National Park.

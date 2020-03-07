@@ -1,19 +1,3 @@
----
-title: What is Project Personality Chat?
-titlesuffix: Azure Cognitive Services
-description: This article is an overview of the Azure Project Personality Chat, a cloud-based API for enhancing your bot’s conversational capabilities.
-services: cognitive-services
-author: noellelacharite
-manager: nitinme
-
-ms.service: cognitive-services
-ms.subservice: personality-chat
-ms.topic: overview
-ms.date: 05/07/2018
-ms.author: nitinme
-comment: As a bot developer, I want my bot to be able to handle small talk in a consistent tone so that my bot appears more complete and conversational.
-ROBOTS: NOINDEX
----
 # What is Project Personality Chat?
 
 Project Personality Chat enhances your bot’s conversational abilities by handling small talk in line with a distinct, chosen personality. Personality Chat uses intent classifiers to identify common small talk intents and generates responses consistent with a personality. Based on the intent and the confidence scores, the bot either chooses the best response from a curated editorial base or generates one in real-time using deep neural networks (DNNs). You can choose from three default personas. The persona model returns responses that are the most similar with the chosen personality.

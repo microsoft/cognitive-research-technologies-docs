@@ -1,18 +1,3 @@
----
-title: How to use entity detection callback with a Conversation Learner model - Microsoft Cognitive Services | Microsoft Docs
-titleSuffix: Azure
-description: Learn how to use entity detection callback with a Conversation Learner model.
-services: cognitive-services
-author: nitinme
-manager: nolachar
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 04/30/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # How to use entity detection callback
 
 This tutorial shows the entity detection callback, and illustrates a common pattern for resolving entities.

@@ -1,18 +1,3 @@
----
-title: Entity Resolvers in a Conversation Learner Model - Azure Cognitive Services| Microsoft Docs
-titleSuffix: Azure
-description: Learn how to use Entity Resolvers in Conversation Learner.
-services: cognitive-services
-author: nitinme
-manager: nolachar
-ms.service: cognitive-services
-ms.subservice: conversation-learner
-ms.topic: article
-ms.date: 04/30/2018
-ms.author: nitinme
-ROBOTS: NOINDEX
----
-
 # Entity Resolvers
 
 This tutorial shows how to use Entity Resolvers in Conversation Learner
