@@ -25,7 +25,7 @@ Imagine you overhear part of a conversation between people nearby and you only h
 
 Let's further clarify with the following example:
 
-Bot: Do you like Azure Cognitive Services?
+Bot: Do you like Cognitive Research Technologies?
 User: Yes
 Bot: Do you like ice cream?
 User: Yes

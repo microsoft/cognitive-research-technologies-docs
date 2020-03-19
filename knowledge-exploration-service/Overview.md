@@ -6,7 +6,7 @@ See [Getting Started](GettingStarted.md) for a sample walkthrough of how to use 
 
 ![AcademicAutoComplete](AutoComplete.png)
 
-KES has moved from Cognitive Services Preview to Cognitive Services Labs. The new homepage for the project is [https://labs.cognitive.microsoft.com/en-us/project-knowledge-exploration](https://labs.cognitive.microsoft.com/en-us/project-knowledge-exploration).
+KES has moved from Cognitive Services Preview to Cognitive Research Technologies. The new homepage for the project is [https://www.microsoft.com/en-us/research/project/knowledge-exploration/](https://www.microsoft.com/en-us/research/project/knowledge-exploration/).
 
 ## Reference
 
