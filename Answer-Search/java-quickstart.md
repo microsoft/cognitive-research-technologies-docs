@@ -1,11 +1,11 @@
 # Quickstart: Project Answer Search query in Java
-This article uses Java to demonstrate the Bing Answer Search API, part of Microsoft Cognitive Services on Azure. The API is a REST Web service compatible with any programming language that can make HTTP requests and parse JSON.
+This article uses Java to demonstrate the Bing Answer Search API, part of Cognitive Research Technologies. The API is a REST Web service compatible with any programming language that can make HTTP requests and parse JSON.
  
 The example code uses Java with minimal external dependencies.  You can also run it on Linux or Mac OS X using Mono.
 
 ## Prerequisites
 
-Get an access key for the free trial [Cognitive Services Labs](https://labs.cognitive.microsoft.com/en-us/project-answer-search)
+Get an access key for the free trial [Cognitive Research Technologies](https://www.microsoft.com/en-us/research/project/answer-search/)
 
 ## Request 
 
